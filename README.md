@@ -40,4 +40,4 @@ How to
 * open a R console and set the working directory to the repository root
 * run run_analysis.R script 
 
-In the repository root directory you find the file 'sensordata_avg_by_subject.txt' 
+
